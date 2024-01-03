@@ -6,4 +6,5 @@
 
 ## check various version:-
 ### node --version
-##  tsc --version
+### npm --version
+### tsc --version
